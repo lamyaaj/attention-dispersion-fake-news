@@ -15,6 +15,6 @@ This project was successfully completed as a collaborative team effort by:
 *Developed during the Nywtk Bootcamp in partnership with the Saudi Digital Academy (SDA).*
 
 ## 🚀 Project Components:
-- 📄 **Project Report:** [Download Full PDF Report](./Project_Report.pdf) 
+- 📄 **Project Report:** [Download Full PDF Report](./Project_Report.pdf.pdf)
 - 📊 **Interactive Dashboard:** [Launch Streamlit App](https://ai-algorithms-attention-fake-news-dnayndd8sq4ndwtxbe82om.streamlit.app/)
 - 🛠️ **Models Built:** Decision Tree & Random Forest Classifiers (Max Accuracy: 86.37%)
